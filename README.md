@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on FireBootCamp
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: caleb.williams5247@gmail.com
+- ⚡ Fun fact: A flock of crows is called a murder, and that's kinda cool
+
+[![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=Calinator444&theme=dark)](https://github.com/adamcogan/github-readme-stats)
