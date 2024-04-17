@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on FireBootCamp
+- 🔭 I work at https://www.ssw.com.au/people/caleb-williams/
 - 🌱 I’m currently learning Next.js
 - 💬Ask me about Angular or EF Core
-- 📫 How to reach me: caleb.williams5247@gmail.com
+- 📫 How to reach me: CalebWilliams@ssw.com.au
 - ⚡I'm the only person in the world who can lick my own elbow
 [![Caleb's github stats](https://github-readme-stats.vercel.app/api?username=Calinator444&theme=dark)](https://github.com/adamcogan/github-readme-stats)
