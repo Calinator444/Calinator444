@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I work at https://www.ssw.com.au/people/caleb-williams/
-- 🌱 I’m currently learning Next.js
-- 💬Ask me about Angular or EF Core
+- 🌱 I’m currently learning how to speak Nepali 🗣️
+- 💬Ask me about Next.js and TinaCMS
 - 📫 How to reach me: CalebWilliams@ssw.com.au
 - ⚡I'm the only person in the world who can lick my own elbow
 
