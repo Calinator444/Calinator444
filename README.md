@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning how to speak Nepali 🗣️
 - 💬Ask me about Next.js and TinaCMS
-- 📫 How to reach me: CalebWilliams@ssw.com.au
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only person in the world who can lick my own elbow
 
