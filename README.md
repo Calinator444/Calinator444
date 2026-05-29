@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I work at https://www.ssw.com.au/people/caleb-williams/
 - 🌱 I’m currently learning how to speak Nepali 🗣️
 - 💬Ask me about Next.js and TinaCMS
 - 📫 How to reach me: CalebWilliams@ssw.com.au
